@@ -1,6 +1,6 @@
 #  Hang-up
 ## System requirements:
-- Ruby 2.6.3
+- Ruby
 
 Project is a popular console game 'hang-up'. The essence of the game is the
 player guessing a random word by letter.
