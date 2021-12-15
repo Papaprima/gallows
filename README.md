@@ -22,10 +22,11 @@ Note. Taken into account in the game: ё/е, й/и
 ```sh
 bundle install
 ```
+[more info](https://bundler.io/#getting-started)
 
 ##### Run program
 ```sh
-ruby main.rb
+bundle exec ruby main.rb
 ```
 #####  Add new word
 List of used words `/data/words.txt`.
