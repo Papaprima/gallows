@@ -2,6 +2,9 @@
 ## System requirements:
 - Ruby
 
+## Dependencies:
+- colorize
+
 Project is a popular console game 'hang-up'. The essence of the game is the
 player guessing a random word by letter.
 Algoritm:
@@ -14,6 +17,11 @@ is filled with the following position
 6. Player lost if he made 7 mistakes
 
 Note. Taken into account in the game: ё/е, й/и
+
+##### Get start
+```sh
+bundle install
+```
 
 ##### Run program
 ```sh
